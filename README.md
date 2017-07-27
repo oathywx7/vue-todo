@@ -1,16 +1,10 @@
-# vue-todo
-
-> A Vue.js project
-
-## Build Setup
-
 #webpack
 -----
 It's a test of webpack.
 
-####运行指南:
+##运行指南:
 -----
-#####方式1:
+##方式1:
 
 安装依赖
 ```
@@ -18,7 +12,7 @@ npm i babel-loader babel-core babel-preset-es2015 babel-preset-react
 ```
 从本地打开index.html
 
-#####方式2:
+##方式2:
 
 安装依赖
 ```
